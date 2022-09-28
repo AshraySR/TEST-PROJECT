@@ -1,0 +1,1 @@
+This is my first repository. I have uploaded a few java codes to learn how to commit.
